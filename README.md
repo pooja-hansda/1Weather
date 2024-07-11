@@ -1,3 +1,12 @@
+1Weather is a interactive Weather application using React JS, which provides with the real time weather data when the required city is entered.
+Install the packages for the required project 
+   npm install axios react-loader-spinner @fortawesome/react-fontawesome @fortawesome/free-solid-svg-icons
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
